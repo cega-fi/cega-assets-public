@@ -1,0 +1,14 @@
+{
+  "description": "Cega Vault Token",
+  "symbol": "lpCega",
+  "image": "https://cdn.glitch.global/11976b1b-56cf-4260-a8a7-c4ffa2875b78/7-token.png?v=1665559862633",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.glitch.global/11976b1b-56cf-4260-a8a7-c4ffa2875b78/7-token.png?v=1665559862633",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
